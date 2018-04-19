@@ -1,0 +1,223 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.wrapper{
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+  
+}
+.header{
+    margin: 0 auto;
+    width: 100%;
+    height: 100px;
+   background-color:#F4F4F4;
+   display: inline-block;
+}
+.headertext1{
+    font-size: 55px;
+    display: inline-block;
+    padding: 1%;
+}
+.headertext2{
+    font-size: 35px;
+    display: inline-block;
+    margin-left: 52%;
+   
+}
+.body{
+    
+    width: 100%;
+    height: 1500px;
+    background-color: #695760;
+ 
+   
+}
+.bodytopdiv1{
+   
+    width:47%;
+    height: 25%;
+    display: inline-block;
+    background-image: url("photo_of_me.jpg");
+   background-size: 100%;
+   border: 8px solid #C0C0C0;
+    background-repeat: no-repeat;
+   margin: 1%;
+}
+.bodytopdiv2{
+
+    margin: 1%;
+    margin-left: 3%;
+    width:45%;
+    height: 26%;
+    display: inline-block;
+    background-color:#DECFDB;
+    vertical-align: top;
+
+}
+.toprigthdiv{
+    width: 100%;
+    height: 60px;
+    background:linear-gradient(gray,silver);
+    
+    
+   
+    
+}
+.toprigthdiv p{
+    margin: 10px;
+    font-size: 150%
+}
+.mid_body1{
+    width: 30%;
+    height: 40%;
+    background-color: #E8DDE5;
+    display: inline-block;
+    margin: 10px 0px 0px 15px;
+    vertical-align: top;
+}
+.mid_body2{
+    width: 30%;
+    height: 40%;
+    background-color: #E8DDE5;
+    display: inline-block;
+    margin-top:10px;
+    margin-left: 55px;
+    vertical-align: top;
+}
+.mid_body3{
+    width: 30%;
+    height: 40%;
+    background-color: #E8DDE5;
+    display: inline-block;
+   margin-top:10px;
+   margin-left: 55px;
+    vertical-align: top;
+}
+.mid_body1_top{
+    width: 100%;
+    height: 10%;
+    background:linear-gradient(gray,silver);
+
+}
+.mid_body2_top{
+    width: 100%;
+    height: 10%;
+    background:linear-gradient(gray,silver);
+
+}
+.mid_body3_top{
+    width: 100%;
+    height: 10%;
+    background:linear-gradient(gray,silver);
+
+}
+.LaMode_img{
+    background-size: 100%;
+    background-image: url("lamode.png");
+    width: 100%;
+    height: 460%;   
+}
+.family_img{
+        background-size: 100%;
+    height:450%;
+        background-image: url("familycontacts.png");
+        width: 100%;
+        height: 460%;
+ }
+ .fiveeleven_img{
+    background-size: 100%;
+    background-image: url("fiveEleven.png");
+    width: 100%;
+    height:460%;
+}
+
+.technologies1{
+    width:30%;
+    height: 65px;
+    margin-left: 15px;
+
+    background:linear-gradient(gray,silver);
+    display: inline-block;
+}
+
+.technologies2{
+    width:30%;
+    height: 65px;
+    margin-left: 55px;
+
+    background:linear-gradient(gray,silver);
+    display: inline-block;
+}
+
+.technologies3{
+    width:30%;
+    height: 65px;
+    margin-left: 55px;
+
+    background:linear-gradient(gray,silver);
+    display: inline-block;
+}
+.bottom_technologies_img1{
+    width:30%;
+    height: 250px;
+    margin-left: 15px;
+
+    background-color: #E8DDE5;
+    display: inline-block;
+    vertical-align: top;
+}
+.bottom_technologies_img2{
+    width:30%;
+    height: 250px;
+    margin-left: 55px;
+
+    background-color: #E8DDE5;
+    display: inline-block;
+    vertical-align: top;
+}
+.bottom_technologies_img3{
+    width:30%;
+    height: 250px;
+    margin-left: 55px;
+
+    background-color: #E8DDE5;
+    display: inline-block;
+    vertical-align: top;
+}
+.botomimg{
+    width: 55px;
+    height: 55px;
+    margin: 12px;
+   
+}
+.LaMod_bottun{
+   width: 100px;
+   height: 50px;
+ 
+ border:3px solid black;
+ border-radius: 8px;
+ background-color: green;
+ color: white;
+ font-size: 15px;
+ display:block;
+ margin: 0 auto;
+ margin-top: 30px;
+ 
+}
+
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: #F9F9F9;
+    text-align: center;
+    position: absolute;
+    top:1526px;
+}
+.botomimg2{
+
+    width: 20px;
+    height: 15px;
+    margin: 5px;
+}
